@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog/site post title"
-date:  2018-06-13
-
+title: "Your blog post title"
+date:  YYYY-MM-DD
 ---
