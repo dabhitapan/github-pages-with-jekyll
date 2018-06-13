@@ -1,6 +1,6 @@
 ---
-layout: post tite
-title:  "Welcome to Jekyll! title"
+layout: post
+title:  "Welcome to Jekyll!"
 date:   2018-06-13
 categories: jekyll update
 ---
